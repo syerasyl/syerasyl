@@ -7,9 +7,7 @@ Curious mind exploring the intersection of **software engineering**, **AI/ML**, 
 
 ### 🧰 Tech Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git,github,postgres,mongodb,mysql,heroku,aws,vscode,intellij" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma,latex" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,git,cv2" height="40"/>
 </p>
 
 ---
