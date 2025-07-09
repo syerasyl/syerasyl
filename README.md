@@ -7,7 +7,7 @@ Curious mind exploring the intersection of **software engineering**, **AI/ML**, 
 
 ### 🧰 Tech Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,git,cv2" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js" height="40"/>
 </p>
 
 ---
@@ -15,7 +15,6 @@ Curious mind exploring the intersection of **software engineering**, **AI/ML**, 
 ### 🌐 Find Me:
 - [LinkedIn](https://linkedin.com/in/syerasyl)
 - [Telegram](https://t.me/syerasyl)
-- [Email](mailto:serikov0801@gmail.com)
 
 ---
 
