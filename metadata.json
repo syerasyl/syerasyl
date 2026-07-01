@@ -1,0 +1,16 @@
+{
+  "name": "Batman and Kazakhs",
+  "symbol": "BNK",
+  "description": "Test token featuring Nomad Batman on Solana Devnet.",
+  "image": "https://raw.githubusercontent.com/syerasyl/syerasyl/refs/heads/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/syerasyl/syerasyl/refs/heads/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
